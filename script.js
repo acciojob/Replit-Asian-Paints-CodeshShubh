@@ -2,9 +2,9 @@
 
  let items = document.querySelectorAll('.grid-item');
 let colorInput =  document.getElementById('color-id');
-let boxInput = document.getElementById('input-id');
+let boxInput = document.getElementById('block_id');
 let changeBtn = document.getElementById('change_button');
-let resetBtn = document.getElementById ('reset');
+let resetBtn = document.getElementById ('reset_button');
 
 
 changeBtn.addEventListener('click', changeColor);
