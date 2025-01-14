@@ -1,7 +1,7 @@
 //your JS code here. If required.
 
  let items = document.querySelectorAll('.grid-item');
-let colorInput =  document.getElementById('color-id');
+let colorInput =  document.getElementById('colour_id');
 let boxInput = document.getElementById('block_id');
 let changeBtn = document.getElementById('change_button');
 let resetBtn = document.getElementById ('reset_button');
